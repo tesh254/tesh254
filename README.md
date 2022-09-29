@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://res.cloudinary.com/duoxba7n1/image/upload/v1594815264/readme.svg)
 
 - 🌱 I’m currently learning Golang
 - 📫 You can reach out to me through [email](mailto:email@bywachira.com), join my Discord server for quick responses [here](https://discord.gg/uCxDKD8).
