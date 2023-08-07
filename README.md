@@ -1,21 +1,18 @@
-### Hi there 👋
+<div style="display: flex; place-items: center; gap: 0px 8px;">
+  <h3>
+    Hi there 👋, I am Wachira
+  </h3>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=wachira&label=Profile%20Views&color=12&pretty=true" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning Golang
-- 📫 You can reach out to me through [email](mailto:email@bywachira.com), join my Discord server for quick responses [here](https://discord.gg/uCxDKD8).
+---
+
+- 🌱 Fullstack Developer
 - 😄 Pronouns: he/him
-<!--
-**tesh254/tesh254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tesh254&show_icons=true" alt="tesh254" /></p>
+- 🔭 I’m currently working on developer tooling and helping companies automate business processes.
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on any developer tooling or data-driven projects
+- 💬 Ask me about my Dog and off course Javascript and Go
+- 📫 You can reach out to me through [email](mailto:email@bywachira.com)
