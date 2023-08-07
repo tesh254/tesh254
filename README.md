@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 Fullstack Developer
+- 🌱 Product Engineer
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on developer tooling and helping companies automate business processes.
 - 🌱 I’m currently learning Rust
